@@ -1,0 +1,2 @@
+import{t as e}from"./assets/src-CvCKjCN-.js";import{n as t,r as n}from"./assets/intent-support-DHtIpUHp.js";import{n as r,t as i}from"./assets/mock-functions-CscGNUZ-.js";e().then(async e=>{await i(e);try{await e.addContextListener(null,async n=>{n.type===`fdc3.instrument`&&await r(e,{type:t.CONTEXT_RECEIVED,context:n})})}catch(n){let i=n instanceof Error?n.message:String(n);await r(e,{type:t.CONTEXT_RECEIVED,errorMessage:i})}e.addIntentListener(n.lTestingIntent,async e=>e)});
+//# sourceMappingURL=basic.js.map

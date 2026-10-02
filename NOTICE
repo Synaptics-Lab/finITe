@@ -1,0 +1,14 @@
+The contents of the `runner/` directory are the FINOS fdc3-conformance suite,
+built unmodified from the finos/FDC3 repository (Apache-2.0):
+
+  Source project: https://github.com/finos/FDC3 (toolbox/fdc3-conformance)
+  Built from source at the FDC3 3.0.0-alpha.5 workspace snapshot
+  (package version 3.0.0-alpha.2).
+
+FDC3 is © its FINOS contributors, licensed under the Apache License 2.0
+(see LICENSE). No changes were made to the runner's behavior; the dist here is
+pinned as the byte-identity of the runs recorded in RECEIPTS.md.
+
+Everything outside runner/ (README, RECEIPTS, RUNBOOK, harness example) is
+SynapticChain estate documentation describing our run of FINOS's suite, and
+makes no claim of FINOS certification or endorsement.

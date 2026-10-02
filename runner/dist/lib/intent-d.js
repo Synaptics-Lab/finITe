@@ -1,0 +1,2 @@
+import{t as e}from"./assets/src-CvCKjCN-.js";import{r as t}from"./assets/intent-support-DHtIpUHp.js";import{t as n}from"./assets/mock-functions-CscGNUZ-.js";e().then(async e=>{await n(e),e.addIntentListener(t.sharedTestingIntent2,async e=>e)});
+//# sourceMappingURL=intent-d.js.map

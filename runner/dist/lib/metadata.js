@@ -1,0 +1,2 @@
+import{t as e}from"./assets/src-CvCKjCN-.js";import{n as t}from"./assets/intent-support-DHtIpUHp.js";import{n,t as r}from"./assets/mock-functions-CscGNUZ-.js";e().then(async e=>{await r(e),await e.addContextListener(`metadataAppContext`,async()=>{let r=await e.getInfo(),i={type:t.CONTEXT_LISTENER_TRIGGERED,implMetadata:r};n(e,i)})});
+//# sourceMappingURL=metadata.js.map
