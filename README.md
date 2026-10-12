@@ -92,6 +92,10 @@ rules around the demo bytes.
 
 ## License & attribution
 
+- **Estate assets — ALL RIGHTS RESERVED** (see [LICENSE](LICENSE)): published
+  for evaluation and verification only — readable and runnable, but
+  redistribution, derivative products, and commercial use
+  require written permission.
 - `runner/` is **FINOS's fdc3-conformance**, Apache-2.0, unmodified — see
   [NOTICE](NOTICE). The upstream project: https://github.com/finos/FDC3
 - Receipts, runbook, and this README are SynapticChain estate documentation.

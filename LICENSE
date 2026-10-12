@@ -1,0 +1,29 @@
+                                 ALL RIGHTS RESERVED
+
+Copyright (c) 2026 Synaptics Lab (SynapticChain).
+
+Scope: the FINOS fdc3-conformance runner under `runner/` is NOT covered by
+this license — it is FINOS's fdc3-conformance suite, © its FINOS contributors,
+Apache License 2.0, built unmodified (see NOTICE). The upstream project is
+https://github.com/finos/FDC3.
+
+Everything else in this repository — the conformance harness configuration
+(harness-example-conf-angular.js), runbook, receipts, and documentation — is
+published for EVALUATION AND VERIFICATION ONLY:
+
+ - It may be read, run, and evaluated, including to reproduce the conformance
+   runs recorded in RECEIPTS.md.
+ - It is not licensed for redistribution, sublicensing, derivative products,
+   or any commercial use without written permission.
+ - No warranty of any kind.
+
+The underlying FDC3 3.0 standard, the `fdc3.payment` context vocabulary (per
+FINOS PR #2204), and the two-tier adapter interface are open to all
+implementations; this license governs only this repository's particular
+assets.
+
+Third-party trademarks referenced anywhere in this repository (including
+"FINOS", "FDC3", "Stripe", "Solana", "XRPL") belong to their owners;
+descriptive use here is not affiliation or endorsement.
+
+Contact: veritasvaultone@gmail.com  ·  https://synapticchain.xyz
