@@ -3,7 +3,7 @@
 **The FINOS FDC3 conformance suite, pinned and run against the SynapticChain
 Estate Desktop Agent — receipts, re-run path, and byte-identity, in one repo.**
 
-> 🖥️ The desktop agent this suite runs against is live for Colosseum Radar judges at
+> The desktop agent this suite runs against is live for Colosseum Radar judges at
 > **[colosseum.synapticchain.xyz](https://colosseum.synapticchain.xyz)** — clearinghouse console,
 > nine-stage live-fire demo (`/demo`), Continuous Atomic Netting (`/can`), position brief (`/brief`),
 > and milestone receipts (`/milestones`). Verification fast-path: [JUDGES_FLOW.md](https://github.com/Synaptics-Lab/synaptic-fx-terminal/blob/main/JUDGES_FLOW.md).
